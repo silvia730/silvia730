@@ -69,9 +69,9 @@ A **responsive Todo application** with user authentication, CRUD operations, and
 ---
 
 ## 📫 Contact Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/silvia-njeri-85b759357/)  
-- 📧 Email: [YOUR_EMAIL@example.com](mailto:silvianjeri730@gmail.com)  
-- 🐦 Twitter: [@YOUR_TWITTER](https://x.com/NjeriSilvi48587)  
+- 🌐 [LinkedIn]:(https://www.linkedin.com/in/silvia-njeri-85b759357/)  
+- 📧 Email: (mailto:silvianjeri730@gmail.com)  
+- 🐦 Twitter: (https://x.com/NjeriSilvi48587)  
 
 ---
 
