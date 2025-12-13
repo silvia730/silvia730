@@ -1,13 +1,11 @@
+
+# Hi there 👋, I'm Silvia Njeri
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F700&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Silvia+Njeri;Software+Engineer;Full-Stack+Developer;AWS+Cloud+Practitioner" alt="Typing SVG">
   </a>
 </p>
-# Hi there 👋, I'm Silvia Njeri
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AB0A&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+Enthusiast)
-
----
 
 ## 🔹 About Me
 I'm a passionate **Software Engineer** based in **Nairobi, Kenya**. I love building **full-stack web applications** and deploying them to the **cloud**. My current focus is on mastering **MERN stack development**, **CI/CD pipelines**, **containerization**, and **scalable cloud architectures** with **AWS**.  
@@ -56,7 +54,7 @@ A **responsive Todo application** with user authentication, CRUD operations, and
 
 ![Silvia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=silvia730&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silvia730&layout=compact&theme=tokyonight)
 
 ---
 
